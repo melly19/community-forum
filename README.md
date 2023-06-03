@@ -1,5 +1,5 @@
 # Community Forum
-:waving_hand: Welcome to our Community Forum! This platform is designed to foster meaningful discussions, knowledge sharing, and collaboration among members. We encourage you to actively participate, ask questions, and share your expertise with the community.
+👋 Welcome to our Community Forum! This platform is designed to foster meaningful discussions, knowledge sharing, and collaboration among members. We encourage you to actively participate, ask questions, and share your expertise with the community.
 
 ## Getting Started
 To ensure a positive and inclusive environment for all participants, we kindly ask you to read and familiarize yourself with the following documents:
