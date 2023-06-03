@@ -46,4 +46,4 @@ Learn Python
 * [Codecademy - Learn Java](https://www.codecademy.com/catalog/language/java): An interactive course that teaches Java through hands-on exercises and projects.
 
 <hr>
-Remember, practice is key to improving your coding skills. Don't be afraid to ask questions, collaborate with others, and learn from your mistakes. Happy coding! :)
+Remember, practice is key to improving your coding skills. Don't be afraid to ask questions, collaborate with others, and learn from your mistakes. Happy coding! :smile:
